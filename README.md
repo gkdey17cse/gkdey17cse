@@ -1,10 +1,23 @@
-<!-- Animated Header -->
+<!-- About Me Section -->
+<div align="center">
 <h1 align="center">
   <a href="https://gkdey.vercel.app" target="_blank">
   <p>Hi , I am <b>Gour Krishna</b></p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=An+UI+Designer+%26+Developer;A+Full+Stack+Developer;An+Aspiring+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
+    Currently pursuing my <b>M.Tech (CSE)</b> at <b>IIIT-Delhi</b>, I hold a <b>B.Tech in CSE</b> with a DGPA of <b>9.38/10</b> from GCETTS.
+  </p>
+
+  <p>
+    🎯 <b>Achievements:</b> <br>
+    • <b>AIR 4747</b> – GATE CS 2023 <br>
+    • <b>AIR 5878</b> – GATE CS 2024 | <b>AIR 5322</b> – GATE DA 2024 <br>
+  </p>
+  <p>
+    📚 <b>Interests:</b> Competitive Coding, Indian Art & Culture, History, Cricket, Music.
+  </p>
+</div>
 
 ## 🛠 Tech Stack
 
@@ -50,16 +63,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gkdey17cse&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <!-- Replace with your actual repo names -->
-  <a href="https://github.com/gkdey17cse/urban-spice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gkdey17cse&repo=urban-spice&theme=radical" /></a>
-  <a href="https://github.com/gkdey17cse/ratatouillegen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gkdey17cse&repo=ratatouillegen&theme=radical" /></a>
 </p>
 
 ---
