@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=An+UI+Designer+%26+Developer;A+Full+Stack+Developer;An+Aspiring+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
-    Currently pursuing my <b>M.Tech (CSE)</b> at <b>IIIT-Delhi</b>, I hold a <b>B.Tech in CSE</b> with a DGPA of <b>9.38/10</b> from GCETTS.
+    Currently pursuing <b>M.Tech (CSE)</b> at <b>IIIT-Delhi</b>, I hold a <b>B.Tech in CSE</b> with a DGPA of <b>9.38/10</b> from GCETTS.
   </p>
 
   <p>
