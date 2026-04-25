@@ -19,10 +19,10 @@
 
 ### 🚀 Professional Profile
 
-I am an Engineer and Researcher driven by the challenge of building intelligent, scalable applications. Currently, I balance my graduate studies at **IIIT-Delhi** with my role as a **Teaching Assistant**, focusing on **LLMs**, **NLP pipelines**, and **Full-Stack** architecture.
+I am an Engineer and Researcher driven by the challenge of building intelligent, scalable applications. Currently, I balance my post graduation studies at **IIIT-Delhi** with my role as a **Teaching Assistant**, focusing on **LLMs**, **NLP pipelines**, and **Full-Stack** architecture.
 
 - 🎓 **Academic Standing:** M.Tech (CSE) @ IIIT-Delhi (CGPA: 8.00) | B.Tech (CSE) @ GCETTS (DGPA: 9.38).
-- 👨‍🏫 **Mentorship:** Teaching Assistant for **DBMS** and **Usable Security (UsS)**.
+- 👨‍🏫 **Mentorship:** Teaching Assistant for **DBMS** , **Usable Security (UsS)** and **DSA** .
 - 🔭 **Current Research:** Claim Normalization and Aspect-Based Sentiment Analysis using Transformer architectures.
 - 💡 **Passion:** Bridging the gap between complex AI models and user-centric web interfaces.
 
