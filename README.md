@@ -19,7 +19,7 @@
 
 ### 🚀 Professional Profile
 
-I am an Engineer and Researcher driven by the challenge of building intelligent, scalable applications. Currently, I balance my post graduation studies at **IIIT-Delhi** with my role as a **Teaching Assistant**, focusing on **LLMs**, **NLP pipelines**, and **Full-Stack** architecture.
+I am an Engineer and Researcher driven by the challenge of building intelligent, scalable applications. Currently, I balance my post graduation studies at **IIIT-Delhi** with my role as a **Teaching Assistant**, focusing on **LLMs**, **NLP pipelines**, and **Software Development Engineering** architecture.
 
 - 🎓 **Academic Standing:** M.Tech (CSE) @ IIIT-Delhi (CGPA: 8.00) | B.Tech (CSE) @ GCETTS (DGPA: 9.38).
 - 👨‍🏫 **Mentorship:** Teaching Assistant for **DBMS** , **Usable Security (UsS)** and **DSA** .
